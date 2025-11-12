@@ -35,7 +35,7 @@ jobs:
         with:
           # The directory containing your site’s pom.xml (relative to repository root)
           # Optional: defaults to the root if not specified.
-          site-directory: ‘roq-github-pages’
+          # site-directory: ‘roq-github-pages’
           # Optional: Use a specific Maven executable if needed
           maven-executable: ‘./mvnw’
           # GITHUB_TOKEN is automatically used by the action for internal setup
